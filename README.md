@@ -1,0 +1,1 @@
+# solar_charging_potential
